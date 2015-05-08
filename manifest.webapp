@@ -1,0 +1,9 @@
+{
+    "name": "0h n0",
+    "description": "A logic puzzle by Q42",
+    "launch_path": "/0hn0/index.html",
+    "icons": {
+        "128": "/0hn0/img/icon-128.png",
+        "512": "/0hn0/img/icon-512.png"
+    }
+}
