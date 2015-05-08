@@ -723,7 +723,7 @@ var Game = new (function() {
         showAbout();
         break;
       case 'install':
-        navigator.mozApps.install("https://callahad.github.io/0hn0/manifest.webapp");
+        navigator.mozApps.installPackage("https://callahad.github.io/0hn0/manifest.webapp");
         break;
     }
   }
