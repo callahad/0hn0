@@ -722,6 +722,9 @@ var Game = new (function() {
       case 'about':
         showAbout();
         break;
+      case 'install':
+        navigator.mozApps.install('https://callahad.github.io/0hn0/manifest.webapp')
+        break;
     }
   }
 
