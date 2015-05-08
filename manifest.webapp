@@ -2,8 +2,9 @@
     "name": "0h n0",
     "description": "A logic puzzle by Q42",
     "icons": {
-        "128": "/0hn0/img/icon-128.png",
-        "512": "/0hn0/img/icon-512.png"
+        "128": "/img/icon-128.png",
+        "512": "/img/icon-512.png"
     },
-    "launch_path": "/0hn0/index.html"
+    "launch_path": "/index.html",
+    "package_path": "https://callahad.github.io/0hn0/0hn0.zip"
 }
